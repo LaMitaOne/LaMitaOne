@@ -12,17 +12,6 @@ Ex-Lead Developer of IN MEDIA KG
  - MEDIA Revolution    
  - 1x-Ripper    
  - lots parts of other softwares or internal tools.
-      
-<img width="136" height="134" alt="Logo" src="https://github.com/user-attachments/assets/f8b291f3-dbeb-4327-a498-ffb167699702" />
-
-
-
-
-
-
-
-
-
 
 
 
