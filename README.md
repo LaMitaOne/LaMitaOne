@@ -6,6 +6,7 @@ Currently deep-diving into custom Skia rendering. Starting to love it.
 Back to the roots, not really use form designer anymore since.       
           
 Ex-Lead Developer of IN MEDIA KG      
+Some of my legacy projects:
  - Slideshow XL    
  - intelligent VideoConvert    
  - intelligent Backup    
