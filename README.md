@@ -4,7 +4,7 @@ Most of my repos started as a 2-hour "can I do this?" challenge that went "sligh
       
 Currently deep-diving into custom Skia rendering. Starting to love it.           
 Back to the roots—I barely use the form designer anymore.      
-I tried Skia4Delphi 2 years ago and had absolutely no idea what to do with it...   
+I tried Skia4Delphi 2024 already once and had absolutely no idea what to do with it...   
 But trying to port my Delphi 7 code to it... that changed everything. Now i slowly get it :D   
     
 Give it a try too!   
