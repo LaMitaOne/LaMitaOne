@@ -16,7 +16,7 @@ Most of my repos started as a 2-hour "can I do this?" challenge that went *sligh
 
 ### 💼 Professional Background & Legacy
 *Ex-Lead Developer at IN MEDIA KG.*  
-Here are some of the legacy desktop projects I built or architected:
+Here are some of the legacy desktop projects I built:
 
 * 🎬 **Slideshow XL**
 * 📹 **Intelligent VideoConvert**
