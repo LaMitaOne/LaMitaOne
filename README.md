@@ -14,17 +14,4 @@ Most of my repos started as a 2-hour "can I do this?" challenge that went *sligh
 
 ---
 
-### 💼 Professional Background & Legacy
-*Ex-Lead Developer at IN MEDIA KG.*  
-Here are some of the legacy desktop projects I built:
-
-* 🎬 **Slideshow XL**
-* 📹 **Intelligent VideoConvert**
-* 💾 **Intelligent Backup**
-* 💿 **MEDIA Revolution**
-* 🎵 **1x-Ripper**
-* ⚙️ *Core parts of various other commercial software titles and internal tools.*
-
----
-
 📬 Feel free to check out my repositories or reach out!
