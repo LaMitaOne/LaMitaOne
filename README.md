@@ -16,8 +16,8 @@ Since then, it has escalated a lot, and now I'm trying out everything I can do w
 Lots of prototypes or just testing if I can get it done, but still surely usable for some to start a bit faster :)     
      
 🎮 Games:    
-   Platformer - https://github.com/LaMitaOne/Skia_PlatformerGame    
-   Tetris clone - https://github.com/LaMitaOne/Skiatris    
+   Platformer https://github.com/LaMitaOne/Skia_PlatformerGame    
+   Tetris clone https://github.com/LaMitaOne/Skiatris    
    2D side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
    2.5D isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
    Lemmings clone https://github.com/LaMitaOne/SkiaLemmings    
