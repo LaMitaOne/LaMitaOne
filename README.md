@@ -15,7 +15,7 @@ Most of my repos started as a 2-hour "can I do this?" challenge that went *sligh
 Since then, it has escalated a lot, and now I'm trying out everything I can do with it...    
 Lots of prototypes or just testing if I can get it done, but still surely usable for some to start a bit faster :)     
      
-🎮 Skia4Delphi Games:    
+🎮 Skia4Delphi Games (all in one file, no ext engine):    
    Platformer https://github.com/LaMitaOne/Skia_PlatformerGame    
    Tetris clone https://github.com/LaMitaOne/Skiatris    
    2D side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
