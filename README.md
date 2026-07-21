@@ -44,6 +44,12 @@ Lots of prototypes or just testing if I can get it done, but still surely usable
 
    -Lazarus Components:   
    Flowmotion animated image grid https://github.com/LaMitaOne/lazarus-flowmotion     
+
+   -Older projects:   
+   FMX remote for my player https://github.com/LaMitaOne/MRX-remote    
+   Motorola Studio(RIP) Android Javascript remote for my player https://github.com/LaMitaOne/AndroidRemote   
+   C# Basic Clone of my player https://github.com/LaMitaOne/Lamita-Mediaplayer   
+   C++ qt Analog Cockpit sample https://github.com/LaMitaOne/c-qt-cockpit-sample   
    
 ---
 
