@@ -15,21 +15,21 @@ Most of my repos started as a 2-hour "can I do this?" challenge that went *sligh
 Since then, it has escalated a lot, and now I'm trying out everything I can do with it...    
 Lots of prototypes or just testing if I can get it done, but still surely usable for some to start a bit faster :)     
      
-🎮 Games:    
+🎮 Skia4Delphi Games:    
    Platformer https://github.com/LaMitaOne/Skia_PlatformerGame    
    Tetris clone https://github.com/LaMitaOne/Skiatris    
    2D side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
    2.5D isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
    Lemmings clone https://github.com/LaMitaOne/SkiaLemmings    
        
-🎨 Skia Components:    
+🎨 Skia4Delphi Components:    
    Alive Progress/Loading circle https://github.com/LaMitaOne/SkiaAliveProgress   
    Audio Visualizer https://github.com/LaMitaOne/SkiaAVisualizer     
    Button https://github.com/LaMitaOne/SkiaButton   
    CustomThreadedBase (that one i use mostly) https://github.com/LaMitaOne/SkiaCustomMultiThreadedBase    
    Skia-Flowmotion animated image grid https://github.com/LaMitaOne/skia-flowmotion   
      
-🧪 Skia experimental Components:    
+🧪 Skia4Delphi experimental Components:    
    Circlepopup https://github.com/LaMitaOne/skia-circlepopup  
    CubesPopup https://github.com/LaMitaOne/SkiaCubesPopup   
    CustomMultithreadedBase  https://github.com/LaMitaOne/SkiaCustomMultiThreadedBase    
