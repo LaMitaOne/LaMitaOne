@@ -20,7 +20,10 @@ Lots of prototypes or just trys if I can get it done, but still surely usable fo
    Tetris clone https://github.com/LaMitaOne/Skiatris    
    2D side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
    2.5D isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
-   Lemmings clone https://github.com/LaMitaOne/SkiaLemmings    
+   Lemmings clone https://github.com/LaMitaOne/SkiaLemmings       
+     
+🎮 Game components FMX    
+   MRX Gamepad Core https://github.com/LaMitaOne/MRX-Gamepad-Core    
        
 🎨 Skia4Delphi Components:    
    Alive Progress/Loading circle https://github.com/LaMitaOne/SkiaAliveProgress   
