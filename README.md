@@ -1,3 +1,4 @@
+
 # Hi there! 👋 I'm Tamy,
 
 **Delphi tinkerer. Skia4Delphi addict.**
@@ -15,14 +16,14 @@ Most of my repos started as a 2-hour "can I do this?" challenge that went *sligh
 Since then, it has escalated a lot, and now I'm trying out everything I can do with it...(and whatever I throw at that thread, it can do it)    
 Lots of prototypes or just trys if I can get it done, but still surely usable for some to start a bit faster :)     
      
-🎮 Skia4Delphi Games (all in one file, no ext engine):    
+🎮 Skia4Delphi Games (each one file, no ext engine):    
    Platformer https://github.com/LaMitaOne/Skia_PlatformerGame    
    Tetris clone https://github.com/LaMitaOne/Skiatris    
    2D side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
    2.5D isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
    Lemmings clone https://github.com/LaMitaOne/SkiaLemmings       
      
-🎮 Game components FMX    
+🎮 Game components FMX:    
    MRX Gamepad Core https://github.com/LaMitaOne/MRX-Gamepad-Core    
        
 🎨 Skia4Delphi Components:    
