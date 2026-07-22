@@ -13,7 +13,8 @@ Most of my repos started as a 2-hour "can I do this?" challenge that went *sligh
 > Give it a try too!
 > Maybe I can inspire some people with these ideas. Either way, I’m definitely having a lot of fun building things.
     
-Since then, it has escalated a lot, and now I'm trying out everything I can do with it...(and whatever I throw at that thread, it can do it)    
+Since then, it has escalated a lot, and now I'm trying out everything I can do with it...   
+(and whatever I throw at that thread, it can do it)    
 Lots of prototypes or just trys if I can get it done, but still surely usable for some to start a bit faster :)     
      
 🎮 Skia4Delphi Games (each one file, no ext engine):    
