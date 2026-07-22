@@ -30,7 +30,7 @@ Lots of prototypes or just trys if I can get it done, but still surely usable fo
    Alive Progress/Loading circle https://github.com/LaMitaOne/SkiaAliveProgress   
    Audio Visualizer https://github.com/LaMitaOne/SkiaAVisualizer     
    Button https://github.com/LaMitaOne/SkiaButton   
-   CustomThreadedBase (that one i use mostly) https://github.com/LaMitaOne/SkiaCustomMultiThreadedBase    
+   CustomThreadedBase (that one i use mostly) https://github.com/LaMitaOne/SkiaCustomThreadedBase         
    Skia-Flowmotion animated image grid https://github.com/LaMitaOne/skia-flowmotion   
      
 🧪 Skia4Delphi experimental Components:    
