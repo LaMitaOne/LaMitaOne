@@ -13,9 +13,12 @@ Most of my repos started as a 2-hour "can I do this?" challenge that went *sligh
 > Give it a try too!
 > Maybe I can inspire some people with these ideas. Either way, I’m definitely having a lot of fun building things.
     
-Since then, it has escalated a lot, and now I'm trying out everything I can do with it...   
-(and whatever I throw at that thread, it can do it)    
-Lots of prototypes or just trys if I can get it done, but still surely usable for some to start a bit faster :)     
+Since then, it has escalated a lot, and now I'm trying out everything I can do with it...     
+At the end of the day, it's just a background thread moving pixels around. Same as i done it from begin! My very first "Hello World" was a threaded, animated sidebar—which, 22 years later, is still the playlist in my media player.    
+I used to move panels, forms, and pics around... and now I move avatars and whatever I want around. 😎     
+(but with skia4delphi it looks much cooler)    
+     
+Lots of prototypes, but a bit more than only basics mostly... :D some just trys if I can get it done, but still surely usable for some to learn and get it running faster           
      
 🎮 Skia4Delphi Games (each one file, no ext engine):    
    Platformer https://github.com/LaMitaOne/Skia_PlatformerGame    
