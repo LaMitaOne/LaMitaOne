@@ -24,7 +24,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
      
 🎮 Skia4Delphi Games (each one file, no ext engine):    
    Platformer https://github.com/LaMitaOne/Skia_PlatformerGame    
-   C&C style rts https://github.com/LaMitaOne/Skia-RTS-Game   
+   C&C style 2.5D isometric rts https://github.com/LaMitaOne/Skia-RTS-Game   
    Tetris clone https://github.com/LaMitaOne/Skiatris    
    2D side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
    2.5D isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
