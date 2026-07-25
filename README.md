@@ -24,11 +24,11 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
      
 🎮 Skia4Delphi Games (each one file, no ext engine):    
    2D Platformer https://github.com/LaMitaOne/Skia_PlatformerGame    
-   C&C style 2.5D isometric rts https://github.com/LaMitaOne/Skia-RTS-Game   
+   2D Lemmings/Worms/Portal/Touch hybrid https://github.com/LaMitaOne/SkiaLemmings       
+   2D Side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
+   2.5D C&C style isometric rts https://github.com/LaMitaOne/Skia-RTS-Game   
+   2.5D Isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
    Tetris clone https://github.com/LaMitaOne/Skiatris    
-   2D side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
-   2.5D isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
-   Lemmings/Worms/Portal/Touch 2D hybrid https://github.com/LaMitaOne/SkiaLemmings       
      
 🎮 Game components FMX:    
    MRX Gamepad Core https://github.com/LaMitaOne/MRX-Gamepad-Core    
