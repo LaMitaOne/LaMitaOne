@@ -23,12 +23,12 @@ I used to move panels, forms, and pics around... and now I move avatars and what
 Lots of prototypes, but a bit more than only basics mostly... :D some just trys if I can get it done, but still surely usable for some to learn and get it running faster           
      
 🎮 Skia4Delphi Games (each one file, no ext engine):    
-   Platformer https://github.com/LaMitaOne/Skia_PlatformerGame    
+   2D Platformer https://github.com/LaMitaOne/Skia_PlatformerGame    
    C&C style 2.5D isometric rts https://github.com/LaMitaOne/Skia-RTS-Game   
    Tetris clone https://github.com/LaMitaOne/Skiatris    
    2D side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
    2.5D isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
-   Lemmings clone https://github.com/LaMitaOne/SkiaLemmings       
+   Lemmings/Worms/Portal/Touch 2D hybrid https://github.com/LaMitaOne/SkiaLemmings       
      
 🎮 Game components FMX:    
    MRX Gamepad Core https://github.com/LaMitaOne/MRX-Gamepad-Core    
