@@ -21,7 +21,7 @@ At the end of the day, it's just a background thread moving pixels around. Same 
 I used to move panels, forms, and pics around... and now I move avatars and whatever I want around. 😎     
 (but with skia4delphi it looks much cooler)    
      
-Lots of prototypes, but a bit more than only basics mostly... :D some just trys if I can get it done, but still surely usable for some to learn and get it running faster           
+Lots of prototypes, but a bit more than only basics mostly... :D some just trys if I can get it done, but still surely usable for some to learn and get some beautiful things done faster :)              
      
 🎮 Skia4Delphi Games (each one file, no ext engine):    
    2D Platformer https://github.com/LaMitaOne/Skia_PlatformerGame    
