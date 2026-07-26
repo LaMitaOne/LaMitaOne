@@ -15,7 +15,8 @@ Most of my repos started as a 2-hour "can I do this?" challenge that went *sligh
 > Give it a try too!
 > Maybe I can inspire some people with these ideas. Either way, I’m definitely having a lot of fun building things.
     
-Since then, it has escalated a lot, and now I'm trying out everything I can do with it...     
+Since then, it has escalated a lot, and now I'm trying out everything I can do with it...  
+Seems I can build all the games of my childhood now 🤤 it's sooo cool, accidentally built a nano game engine 🤪    
 At the end of the day, it's just a background thread moving pixels around. Same as i done it from begin! My very first "Hello World" was a threaded, animated sidebar—which, 22 years later, is still the playlist in my media player.    
 I used to move panels, forms, and pics around... and now I move avatars and whatever I want around. 😎     
 (but with skia4delphi it looks much cooler)    
