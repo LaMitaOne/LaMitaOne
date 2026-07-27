@@ -22,7 +22,10 @@ I used to move panels, forms, and pics around... and now I move avatars and what
 (but with skia4delphi it looks much cooler)    
      
 Lots of prototypes, but a bit more than only basics mostly... :D some just trys if I can get it done, but still surely usable for some to learn and get some beautiful things done faster :)              
-     
+   
+"The engine is not the framework. The engine is the code you write."    
+John Carmack   
+      
 🎮 Skia4Delphi Games (each one file, no ext engine):    
    2D Platformer https://github.com/LaMitaOne/Skia_PlatformerGame    
    2D Lemmings/Worms/Portal/Touch hybrid https://github.com/LaMitaOne/SkiaLemmings       
