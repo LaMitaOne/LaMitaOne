@@ -48,7 +48,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    Button https://github.com/LaMitaOne/SkiaButton   
    CustomThreadedBase (that one i use mostly) https://github.com/LaMitaOne/SkiaCustomThreadedBase         
    Skia-Flowmotion animated image grid https://github.com/LaMitaOne/skia-flowmotion   
-   SKia-Slideshow https://github.com/LaMitaOne/Skia-Slideshow   
+   Skia-Slideshow https://github.com/LaMitaOne/Skia-Slideshow   
      
 🧪 Skia4Delphi experimental Components:    
    Circlepopup https://github.com/LaMitaOne/skia-circlepopup  
