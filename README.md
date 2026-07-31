@@ -56,6 +56,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    CustomMultithreadedBase  https://github.com/LaMitaOne/SkiaCustomMultiThreadedBase    
    Page Control https://github.com/LaMitaOne/SkiaPageControl   
    Surface Widget/modules rendering engine https://github.com/LaMitaOne/MRX-Skia-Surface   
+   LCARS fluid engine https://github.com/LaMitaOne/Skia-LCARS-Fluid-Engine   
      
 🖥️ VCL Components:    
    Flowmotion animated image grid https://github.com/LaMitaOne/Flowmotion        
