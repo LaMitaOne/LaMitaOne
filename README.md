@@ -13,9 +13,9 @@ Most of my repos started as a 2-hour "can I do this?" challenge that went *sligh
 * **The Skia Breakthrough** – I tried Skia4Delphi a while ago and had *no idea* what to do with it. But porting my Delphi 7 code to it changed everything. Now I'm slowly getting it! 😄   
 
 That was the result... Skia-Flowmotion https://github.com/LaMitaOne/skia-flowmotion    
-<img width="437" height="289" alt="543404997-7ffa4882-3ed3-43b6-a960-3e11b56a3884" src="https://github.com/user-attachments/assets/951d8eb2-6c6b-4390-8733-0b95fa1e9e12" />
-     
 
+<img width="360" height="202" alt="skia-flowmotion" src="https://github.com/user-attachments/assets/7a968895-083e-4098-9e55-1f5c01737d46" />
+     
 > Give it a try too!
 > Maybe I can inspire some people with these ideas. Either way, I’m definitely having a lot of fun building things.
     
