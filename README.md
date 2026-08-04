@@ -1,9 +1,9 @@
 
-# Hi there! 👋 I'm Tamy,    
-    
-Welcome to the Skia4Delphi goldmine :D    
-    
-**Delphi tinkerer. Skia4Delphi addict.**    
+# Welcome to the Skia4Delphi goldmine
+   
+Hi there! 👋 I'm Tamy,     
+          
+**Delphi tinkerer. Skia4Delphi addict.**     
     
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/LaMitaOne)    
      
