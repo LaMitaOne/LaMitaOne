@@ -1,8 +1,10 @@
 
-# Hi there! 👋 I'm Tamy,
-
+# Hi there! 👋 I'm Tamy,    
+    
+Welcome to the Skia4Delphi goldmine :D    
+    
 **Delphi tinkerer. Skia4Delphi addict.**    
-   
+    
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/LaMitaOne)    
      
 Most of my repos started as a 2-hour "can I do this?" challenge that went *slightly* out of hand. 🚀
