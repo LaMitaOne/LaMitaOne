@@ -1,5 +1,5 @@
 
-# Welcome to the Skia4Delphi goldmine
+# Welcome to the Skia4Delphi goldmine 🪙
    
 Hi there! 👋 I'm Tamy,     
           
