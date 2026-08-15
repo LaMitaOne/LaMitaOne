@@ -37,11 +37,11 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    2D MegaCatling (Megaman platformer/shooter) https://github.com/LaMitaOne/Skia-MegaCatling     
    2D Lemmings/Worms/Portal/Touch hybrid https://github.com/LaMitaOne/SkiaLemmings       
    2D Side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
+   2D Tetris clone https://github.com/LaMitaOne/Skiatris     
    2.5D C&C style isometric rts https://github.com/LaMitaOne/Skia-RTS-Game   
    2.5D Isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
    2.5D Raycasting doom base https://github.com/LaMitaOne/SkiaDoomBase    
-   2.5D Voxel Raycasting Comanche https://github.com/LaMitaOne/Skia-Voxel-Comanche    
-   Tetris clone https://github.com/LaMitaOne/Skiatris    
+   2.5D Voxel Raycasting Comanche https://github.com/LaMitaOne/Skia-Voxel-Comanche        
      
 🎮 Game components FMX:    
    MRX Gamepad Core https://github.com/LaMitaOne/MRX-Gamepad-Core    
