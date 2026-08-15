@@ -38,7 +38,8 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    2D Side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
    2.5D C&C style isometric rts https://github.com/LaMitaOne/Skia-RTS-Game   
    2.5D Isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
-   2.5D Raycasting doom base https://github.com/LaMitaOne/SkiaDoomBase     
+   2.5D Raycasting doom base https://github.com/LaMitaOne/SkiaDoomBase    
+   3D Voxel Raycasting Comanche https://github.com/LaMitaOne/Skia-Voxel-Comanche    
    Tetris clone https://github.com/LaMitaOne/Skiatris    
      
 🎮 Game components FMX:    
