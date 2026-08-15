@@ -33,7 +33,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
 > John Carmack   
       
 🎮 Skia4Delphi Games (each one file, no ext engine):    
-   2D Platformer https://github.com/LaMitaOne/Skia_PlatformerGame   
+   2D JumpnRun Platformer https://github.com/LaMitaOne/Skia_PlatformerGame   
    2D MegaCatling (Megaman platformer/shooter) https://github.com/LaMitaOne/Skia-MegaCatling     
    2D Lemmings/Worms/Portal/Touch hybrid https://github.com/LaMitaOne/SkiaLemmings       
    2D Side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
