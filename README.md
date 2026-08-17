@@ -30,7 +30,26 @@ I used to move panels, forms, and pics around... and now I move avatars and what
 Lots of prototypes, but a bit more than only basics mostly... :D some just trys if I can get it done. But all at a level where its starting to make fun :D so still surely usable for some to learn and get some beautiful things done faster :)              
    
 > "The engine is not the framework. The engine is the code you write."    
-> John Carmack   
+> John Carmack
+      
+🎨 Skia4Delphi Components:    
+   Alive Progress/Loading circle https://github.com/LaMitaOne/SkiaAliveProgress   
+   Audio Visualizer https://github.com/LaMitaOne/SkiaAVisualizer        
+   CustomThreadedBase (that one i use mostly) https://github.com/LaMitaOne/SkiaCustomThreadedBase    
+   Skia-Button https://github.com/LaMitaOne/SkiaButton    
+   Skia-Flowmotion animated image grid https://github.com/LaMitaOne/skia-flowmotion   
+   Skia-Slideshow https://github.com/LaMitaOne/Skia-Slideshow   
+   Skia-Circlepopup https://github.com/LaMitaOne/skia-circlepopup  
+   Skia-CubesPopup https://github.com/LaMitaOne/SkiaCubesPopup   
+   Skia Desktop Pet https://github.com/LaMitaOne/SkiaDesktopPetBase    
+   Skia Alive Grid https://github.com/LaMitaOne/Skia-AliveGrid    
+         
+🧪 Skia4Delphi experimental Components:    
+   CustomMultithreadedBase  https://github.com/LaMitaOne/SkiaCustomMultiThreadedBase    
+   Page Control https://github.com/LaMitaOne/SkiaPageControl   
+   Surface Widget/modules rendering engine https://github.com/LaMitaOne/MRX-Skia-Surface   
+   LCARS fluid engine https://github.com/LaMitaOne/Skia-LCARS-Fluid-Engine   
+   Fluid Magma effect https://github.com/LaMitaOne/Fluid-Magma-Effect-    
       
 🎮 Skia4Delphi Games (each one file, no ext engine):    
    2D JumpnRun Platformer https://github.com/LaMitaOne/Skia_PlatformerGame   
@@ -45,25 +64,6 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
      
 🎮 Game components FMX:    
    MRX Gamepad Core https://github.com/LaMitaOne/MRX-Gamepad-Core    
-       
-🎨 Skia4Delphi Components:    
-   Alive Progress/Loading circle https://github.com/LaMitaOne/SkiaAliveProgress   
-   Audio Visualizer https://github.com/LaMitaOne/SkiaAVisualizer        
-   CustomThreadedBase (that one i use mostly) https://github.com/LaMitaOne/SkiaCustomThreadedBase    
-   Skia-Button https://github.com/LaMitaOne/SkiaButton    
-   Skia-Flowmotion animated image grid https://github.com/LaMitaOne/skia-flowmotion   
-   Skia-Slideshow https://github.com/LaMitaOne/Skia-Slideshow   
-   Skia-Circlepopup https://github.com/LaMitaOne/skia-circlepopup  
-   Skia-CubesPopup https://github.com/LaMitaOne/SkiaCubesPopup   
-   Skia Desktop Pet https://github.com/LaMitaOne/SkiaDesktopPetBase    
-   Skia Alive Grid https://github.com/LaMitaOne/Skia-AliveGrid    
-        
-🧪 Skia4Delphi experimental Components:    
-   CustomMultithreadedBase  https://github.com/LaMitaOne/SkiaCustomMultiThreadedBase    
-   Page Control https://github.com/LaMitaOne/SkiaPageControl   
-   Surface Widget/modules rendering engine https://github.com/LaMitaOne/MRX-Skia-Surface   
-   LCARS fluid engine https://github.com/LaMitaOne/Skia-LCARS-Fluid-Engine   
-   Fluid Magma effect https://github.com/LaMitaOne/Fluid-Magma-Effect-    
      
 🖥️ VCL Components:    
    Flowmotion animated image grid https://github.com/LaMitaOne/Flowmotion        
