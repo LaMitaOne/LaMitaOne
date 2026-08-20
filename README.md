@@ -88,3 +88,4 @@ If you want to tip me a coffee.. :)
   </a>
 </p>
         
+💡 Note: Please excuse any typos or formatting glitches; I have severe Keratoconus (20% visual acuity) and cluster headaches, so I code entirely in the dark and struggle with visual artifacts. 
