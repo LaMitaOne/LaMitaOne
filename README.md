@@ -57,7 +57,8 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    2D Lemmings/Worms/Portal/Touch hybrid https://github.com/LaMitaOne/SkiaLemmings       
    2D Side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
    2D Tetris clone https://github.com/LaMitaOne/Skiatris     
-   2D Skia Powder (Falling Sand Simulation) https://github.com/LaMitaOne/Skia-Powder     
+   2D Skia Powder (Falling Sand Simulation) https://github.com/LaMitaOne/Skia-Powder    
+   2D BombRunner (Bomberman clone) https://github.com/LaMitaOne/SkiaBombRunner     
    2.5D C&C style isometric rts https://github.com/LaMitaOne/Skia-RTS-Game   
    2.5D Isometric cat game https://github.com/LaMitaOne/Skia-A-Cats-Life    
    2.5D Raycasting doom base https://github.com/LaMitaOne/SkiaDoomBase    
