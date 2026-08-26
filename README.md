@@ -43,6 +43,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    Skia-CubesPopup https://github.com/LaMitaOne/SkiaCubesPopup   
    Skia-Button https://github.com/LaMitaOne/SkiaButton    
    Skia Desktop Pet https://github.com/LaMitaOne/SkiaDesktopPetBase    
+   Skia GalleryFlow https://github.com/LaMitaOne/SkiaGalleryFlow    
          
 🧪 Skia4Delphi experimental Components:    
    CustomMultithreadedBase  https://github.com/LaMitaOne/SkiaCustomMultiThreadedBase    
