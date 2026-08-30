@@ -70,7 +70,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
 🎮 Game components:    
    MRX Gamepad Core https://github.com/LaMitaOne/MRX-Gamepad-Core    
 
-🌋 Raylib   
+🌋 Raylib:   
    Raylib 3D Delphi https://github.com/LaMitaOne/r3d-delphi    
    Raylib Erosion Island port https://github.com/LaMitaOne/RaylibErosionStandaloneDelphi   
     
