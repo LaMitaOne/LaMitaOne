@@ -68,7 +68,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    3D better go to https://github.com/castle-engine     
         
 🎮 Game components:    
-   MRX Gamepad Core https://github.com/LaMitaOne/MRX-Gamepad-Core    
+   MRX Gamepad Core (sdl3) https://github.com/LaMitaOne/MRX-Gamepad-Core    
 
 🌋 Raylib:   
    Raylib 3D Delphi wrapper https://github.com/LaMitaOne/r3d-delphi    
