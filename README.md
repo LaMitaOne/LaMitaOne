@@ -35,7 +35,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
 🎨 Skia4Delphi Components:    
    Alive Progress/Loading circle https://github.com/LaMitaOne/SkiaAliveProgress   
    Audio Visualizer https://github.com/LaMitaOne/SkiaAVisualizer        
-   CustomThreadedBase (this i use mostly) https://github.com/LaMitaOne/SkiaCustomThreadedBase    
+   Skia CustomThreadedBase (this i use mostly) https://github.com/LaMitaOne/SkiaCustomThreadedBase    
    Skia Alive Grid https://github.com/LaMitaOne/Skia-AliveGrid    
    Skia-Flowmotion animated image grid https://github.com/LaMitaOne/skia-flowmotion   
    Skia-Slideshow https://github.com/LaMitaOne/Skia-Slideshow   
@@ -46,7 +46,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    Skia GalleryFlow https://github.com/LaMitaOne/SkiaGalleryFlow    
          
 🧪 Skia4Delphi experimental Components:    
-   CustomMultithreadedBase  https://github.com/LaMitaOne/SkiaCustomMultiThreadedBase    
+   Skia CustomMultithreadedBase  https://github.com/LaMitaOne/SkiaCustomMultiThreadedBase    
    Page Control https://github.com/LaMitaOne/SkiaPageControl   
    Surface Widget/modules rendering engine https://github.com/LaMitaOne/MRX-Skia-Surface   
    LCARS fluid engine https://github.com/LaMitaOne/Skia-LCARS-Fluid-Engine   
@@ -73,7 +73,8 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
 
 🌋 Raylib:   
    Raylib 3D Delphi wrapper https://github.com/LaMitaOne/r3d-delphi    
-   Raylib Erosion Island port https://github.com/LaMitaOne/RaylibErosionStandaloneDelphi   
+   Raylib CustomThreadedBase https://github.com/LaMitaOne/RaylibCustomThreadedBase   
+   Raylib Erosion Island port https://github.com/LaMitaOne/RaylibErosionStandaloneDelphi    
     
 🖥️ VCL Components:    
    Flowmotion animated image grid https://github.com/LaMitaOne/Flowmotion        
