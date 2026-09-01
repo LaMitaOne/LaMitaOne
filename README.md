@@ -76,6 +76,9 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    Raylib CustomThreadedBase https://github.com/LaMitaOne/RaylibCustomThreadedBase   
    Raylib Erosion Island port https://github.com/LaMitaOne/RaylibErosionStandaloneDelphi    
     
+🌋 SDL3:    
+   SDL3 CustomThreadedBase https://github.com/LaMitaOne/SDL3CustomThreadedBase    
+     
 🖥️ VCL Components:    
    Flowmotion animated image grid https://github.com/LaMitaOne/Flowmotion        
    Picshow extended https://github.com/LaMitaOne/PicShow-Extended    
