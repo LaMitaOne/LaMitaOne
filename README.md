@@ -88,7 +88,11 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
 
    -Lazarus Components:   
    Flowmotion animated image grid https://github.com/LaMitaOne/lazarus-flowmotion     
-   
+
+   -Useless things, Some tries which didn't fully work out so far:           
+  WebGPU4Delphi & BGFX_Delphi https://github.com/LaMitaOne/useless-things    
+  DCCrossrenderer-to-paslibVLC https://github.com/LaMitaOne/DCCrossrenderer-to-paslibVLC    
+      
 ---
 
 📬 Feel free to check out my repositories or reach out!   
