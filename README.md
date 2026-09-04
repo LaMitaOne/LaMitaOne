@@ -67,6 +67,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    2.5D Raycasting doom base https://github.com/LaMitaOne/SkiaDoomBase    
    2.5D Voxel Raycasting Comanche https://github.com/LaMitaOne/Skia-Voxel-Comanche    
    3D better go to https://github.com/castle-engine     
+   or...:
         
 🌋 SDL3:    
    SDL3 CustomThreadedBase https://github.com/LaMitaOne/SDL3CustomThreadedBase   
