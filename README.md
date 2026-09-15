@@ -80,7 +80,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    Raylib Sandbox with kraft physics https://github.com/LaMitaOne/RaylibSandbox   
      
 🌋 JoltPhysics:      
-   JoltPhysics4Delphi (+ Raylib Sandbox) https://github.com/LaMitaOne/JoltPhysics4Delphi     
+   JoltPhysics4Delphi (+ lil bit enhanced Raylib Sandbox) https://github.com/LaMitaOne/JoltPhysics4Delphi     
       
 🌋 Sokol:   
    Sokol CustomThreadedBase https://github.com/LaMitaOne/SokolCustomThreadedBase      
