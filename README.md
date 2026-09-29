@@ -92,7 +92,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
      
 🎧 Audio:   
    MiniAudio for Delphi https://github.com/LaMitaOne/MiniAudio4Delphi       
-   Tinysoundfont for Delphi https://github.com/LaMitaOne/Tinysoundfont4delphi      
+   TinySoundFont for Delphi https://github.com/LaMitaOne/Tinysoundfont4delphi      
         
 🖥️ VCL Components:    
    Flowmotion animated image grid https://github.com/LaMitaOne/Flowmotion        
