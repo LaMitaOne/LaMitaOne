@@ -90,8 +90,9 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
 🌋 Sokol:   
    Sokol CustomThreadedBase https://github.com/LaMitaOne/SokolCustomThreadedBase      
      
-🎧 MiniAudio:   
-   MiniAudio4Delphi https://github.com/LaMitaOne/MiniAudio4Delphi       
+🎧 Audio:   
+   MiniAudio for Delphi https://github.com/LaMitaOne/MiniAudio4Delphi       
+   Tinysoundfont for delphi https://github.com/LaMitaOne/Tinysoundfont4delphi      
         
 🖥️ VCL Components:    
    Flowmotion animated image grid https://github.com/LaMitaOne/Flowmotion        
