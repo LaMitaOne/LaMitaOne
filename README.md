@@ -93,6 +93,9 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
 🎧 Audio:   
    MiniAudio for Delphi https://github.com/LaMitaOne/MiniAudio4Delphi       
    TinySoundFont for Delphi https://github.com/LaMitaOne/Tinysoundfont4delphi      
+       
+🌐 Network:    
+   GameNetworkingSockets4delphi https://github.com/LaMitaOne/GameNetworkingSockets4delphi     
         
 🖥️ VCL Components:    
    Flowmotion animated image grid https://github.com/LaMitaOne/Flowmotion        
