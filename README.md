@@ -102,7 +102,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    Picshow extended https://github.com/LaMitaOne/PicShow-Extended    
    Circlepopup https://github.com/LaMitaOne/Circlepopup     
    MediathekView https://github.com/LaMitaOne/LaMita-MediathekView   
-   VCLCustomThreadedBase https://github.com/LaMitaOne/VCLCustomThreadedBase     
+   VCL Custom Threaded Base https://github.com/LaMitaOne/VCLCustomThreadedBase     
    
    -Lazarus Components:   
    Flowmotion animated image grid https://github.com/LaMitaOne/lazarus-flowmotion     
