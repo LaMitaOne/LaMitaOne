@@ -35,7 +35,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
 💠 Yutani - Building better worlds:         
    Yutani Engine (JoltPhysics/Raylib/R3D/SDL3/MiniAudio/TinySoundFont/libmpv/RecastNavigation/Skia4delphi/GameNetworkingSockets)       
    https://github.com/LaMitaOne/Yutani-Building-better-worlds      
-   Yutani Particle Engine https://github.com/LaMitaOne/Yutani-Particle-Engine    
+   Yutani Particle/Materialize/Dematerialize Engine https://github.com/LaMitaOne/Yutani-Particle-Engine    
    Yutani Voronoi-Destruction-Engine https://github.com/LaMitaOne/Yutani-Voronoi-Destruction-Engine    
             
 🎨 Skia4Delphi Components:    
