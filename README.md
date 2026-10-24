@@ -39,6 +39,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    Yutani Voronoi-Destruction-Engine https://github.com/LaMitaOne/Yutani-Voronoi-Destruction-Engine       
    Yutani Skia Holographic Splash https://github.com/LaMitaOne/Yutani-Skia-Holographic-Splash     
    Yutani CHAOS - Complete Holographic AI Operating System Interface https://github.com/LaMitaOne/Yutani.CHAOS     
+   Yutani PathTracing https://github.com/LaMitaOne/Yutani.Render.PathTracing     
             
 🎨 Skia4Delphi Components:    
    Alive Progress/Loading circle https://github.com/LaMitaOne/SkiaAliveProgress   
