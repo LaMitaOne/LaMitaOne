@@ -92,7 +92,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    Raylib Sandbox with kraft physics https://github.com/LaMitaOne/RaylibSandbox   
      
 🌋 JoltPhysics:      
-   JoltPhysics4Delphi (+ lil bit enhanced Raylib Sandbox) https://github.com/LaMitaOne/JoltPhysics4Delphi     
+   Jolt Physics for Delphi (+ lil bit enhanced Raylib Sandbox) https://github.com/LaMitaOne/JoltPhysics4Delphi     
       
 🌋 Sokol:   
    Sokol CustomThreadedBase https://github.com/LaMitaOne/SokolCustomThreadedBase      
@@ -100,6 +100,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
 🎧 Audio:   
    MiniAudio for Delphi https://github.com/LaMitaOne/MiniAudio4Delphi       
    TinySoundFont for Delphi https://github.com/LaMitaOne/Tinysoundfont4delphi      
+   SedaiAudio for Delphi https://github.com/LaMitaOne/SedaiAudio4Delphi     
        
 🌐 Network:    
    GameNetworkingSockets4delphi https://github.com/LaMitaOne/GameNetworkingSockets4delphi     
