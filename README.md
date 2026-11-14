@@ -108,7 +108,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    GameNetworkingSockets4delphi https://github.com/LaMitaOne/GameNetworkingSockets4delphi     
 
 🗄️ Database:       
-   Coming soon... 👀       
+   GPGPU DataSetFilter https://github.com/LaMitaOne/GPGPU-DataSetFilter           
         
 🖥️ VCL Components:    
    Flowmotion animated image grid https://github.com/LaMitaOne/Flowmotion        
