@@ -6,6 +6,9 @@ Hi there! 👋 I'm Tamy,
 **Delphi tinkerer. Skia4Delphi addict.**     
     
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/LaMitaOne)    
+      
+[![XERJ Corpus Hub contributor](https://xerj.org)](https://hub.xerj.org/contributors/LaMitaOne)
+
      
 Most of my repos started as a 2-hour "can I do this?" challenge that went *slightly* out of hand. 🚀
 
