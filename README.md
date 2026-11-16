@@ -65,7 +65,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    Surface Widget/modules rendering engine https://github.com/LaMitaOne/MRX-Skia-Surface   
    LCARS fluid engine https://github.com/LaMitaOne/Skia-LCARS-Fluid-Engine   
    Fluid Magma effect https://github.com/LaMitaOne/Fluid-Magma-Effect    
-   Skia GPU Liquid https://github.com/LaMitaOne/Skia-GPU-Liquid       
+   Skia GPU Liquid (up to 1 billion particles) https://github.com/LaMitaOne/Skia-GPU-Liquid       
       
 🎮 Skia4Delphi Games (each one file, no ext engine):    
    2D JumpnRun Platformer https://github.com/LaMitaOne/Skia_PlatformerGame   
