@@ -27,7 +27,7 @@ Since then, it has escalated a lot, and now I'm trying out everything I can do w
 Seems I can even build all the games of my childhood with that base 🤤 it's sooo cool, accidentally built a nano game engine     
 At the end of the day, it's just a background thread moving pixels around. Same as i done it from begin! My very first "Hello World" was a threaded, animated sidebar—which, 22 years later, is still the playlist in my media player.    
 I used to move panels, forms, and pics around... and now I move avatars and whatever I want around. 😎     
-(but with skia4delphi it looks much cooler)    
+(but with skia4delphi or raylib it looks much cooler)    
      
 Lots of prototypes, but a bit more than only basics mostly... :D some just trys if I can get it done. But all at a level where its starting to make fun :D so still surely usable for some to learn and ...you should finish it :D                
    
@@ -35,8 +35,11 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
 > John Carmack      
      
 💠 Yutani - Building better worlds:         
-   Yutani Engine (JoltPhysics/Raylib/R3D/SDL3/MiniAudio/TinySoundFont/libmpv/RecastNavigation/Skia4delphi/GameNetworkingSockets)       
-   https://github.com/LaMitaOne/Yutani-Building-better-worlds       
+   Yutani Engine       
+   (JoltPhysics/Raylib/R3D/SDL3/MiniAudio/TinySoundFont/libmpv/RecastNavigation/Skia4delphi/GameNetworkingSockets)       
+   https://github.com/LaMitaOne/Yutani-Building-better-worlds      
+       
+-parts of Yutani, usable with any raylib, yutani.core not needed for those(and skia4delphi parts anyway running solo):    
    Yutani Particle/Materialize/Dematerialize Engine https://github.com/LaMitaOne/Yutani-Particle-Engine       
    Yutani Voronoi-Destruction-Engine https://github.com/LaMitaOne/Yutani-Voronoi-Destruction-Engine       
    Yutani Skia Holographic Splash https://github.com/LaMitaOne/Yutani-Skia-Holographic-Splash     
