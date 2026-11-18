@@ -41,7 +41,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
        
 -parts of Yutani, usable with any raylib, yutani.core not needed for those(and skia4delphi parts anyway running solo):    
    Yutani Particle/Materialize/Dematerialize Engine https://github.com/LaMitaOne/Yutani-Particle-Engine       
-   Yutani Voronoi-Destruction-Engine https://github.com/LaMitaOne/Yutani-Voronoi-Destruction-Engine       
+   Yutani Voronoi-Destruction-Engine (not Raylib-specific – pure Object Pascal) https://github.com/LaMitaOne/Yutani-Voronoi-Destruction-Engine       
    Yutani Skia Holographic Splash https://github.com/LaMitaOne/Yutani-Skia-Holographic-Splash     
    Yutani CHAOS Skia - Complete Holographic AI Operating System Interface https://github.com/LaMitaOne/Yutani.CHAOS     
    Yutani PathTracing https://github.com/LaMitaOne/Yutani.Render.PathTracing     
