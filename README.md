@@ -45,7 +45,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    Yutani PathTracing https://github.com/LaMitaOne/Yutani.Render.PathTracing     
    Yutani Universe Former https://github.com/LaMitaOne/Yutani.UniverseFormer      
    Yutani GPU particle monster https://github.com/LaMitaOne/Yutani-GPU-Particles   
-   Yutani GPU Info https://github.com/LaMitaOne/Yutani-GPUInfo      
+   Yutani GPU Info (usable solo) https://github.com/LaMitaOne/Yutani-GPUInfo      
        
 **-Skia4Delphi parts of Yutani — usable solo**       
    Yutani Skia Holographic Splash https://github.com/LaMitaOne/Yutani-Skia-Holographic-Splash     
