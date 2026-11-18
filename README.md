@@ -35,19 +35,21 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
 > John Carmack      
      
 💠 Yutani - Building better worlds:         
-   Yutani Engine       
+**-Yutani Engine**       
    (JoltPhysics/Raylib/R3D/SDL3/MiniAudio/TinySoundFont/libmpv/RecastNavigation/Skia4delphi/GameNetworkingSockets)       
    https://github.com/LaMitaOne/Yutani-Building-better-worlds      
        
--parts of Yutani, usable with any raylib, yutani.core not needed (& skia4delphi parts anyway running solo):    
-   Yutani Particle/Materialize/Dematerialize Engine https://github.com/LaMitaOne/Yutani-Particle-Engine       
-   Yutani Voronoi-Destruction-Engine (not Raylib-specific – pure Object Pascal) https://github.com/LaMitaOne/Yutani-Voronoi-Destruction-Engine       
-   Yutani Skia Holographic Splash https://github.com/LaMitaOne/Yutani-Skia-Holographic-Splash     
-   Yutani CHAOS Skia - Complete Holographic AI Operating System Interface https://github.com/LaMitaOne/Yutani.CHAOS     
+**-Parts of Yutani — usable with any Raylib (`Yutani.Core` not needed)**    
+   Yutani Voronoi-Destruction-Engine (not Raylib-specific – pure Object Pascal) https://github.com/LaMitaOne/Yutani-Voronoi-Destruction-Engine  
+   Yutani Particle/Materialize/Dematerialize Engine https://github.com/LaMitaOne/Yutani-Particle-Engine             
    Yutani PathTracing https://github.com/LaMitaOne/Yutani.Render.PathTracing     
    Yutani Universe Former https://github.com/LaMitaOne/Yutani.UniverseFormer      
    Yutani GPU particle monster https://github.com/LaMitaOne/Yutani-GPU-Particles   
    Yutani GPU Info https://github.com/LaMitaOne/Yutani-GPUInfo      
+       
+**-Skia4Delphi parts of Yutani — usable solo**       
+   Yutani Skia Holographic Splash https://github.com/LaMitaOne/Yutani-Skia-Holographic-Splash     
+   Yutani CHAOS Skia - Complete Holographic AI Operating System Interface https://github.com/LaMitaOne/Yutani.CHAOS    
             
 🎨 Skia4Delphi Components:    
    Alive Progress/Loading circle https://github.com/LaMitaOne/SkiaAliveProgress   
