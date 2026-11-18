@@ -29,7 +29,7 @@ At the end of the day, it's just a background thread moving pixels around. Same 
 I used to move panels, forms, and pics around... and now I move avatars and whatever I want around. 😎     
 (but with skia4delphi or raylib it looks much cooler)    
      
-Lots of prototypes, but a bit more than only basics mostly... :D some just trys if I can get it done. But all at a level where its starting to make fun :D so still surely usable for some to learn and ...you should finish it :D                
+Lots of prototypes, but a bit more than only basics mostly... :D some just trys if I can get it done. But all at a level where its starting to make fun. So still surely usable for some to learn and ...you should finish it :D                
    
 > "The engine is not the framework. The engine is the code you write."    
 > John Carmack      
@@ -51,7 +51,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    Yutani Skia Holographic Splash https://github.com/LaMitaOne/Yutani-Skia-Holographic-Splash     
    Yutani CHAOS Skia - Complete Holographic AI Operating System Interface https://github.com/LaMitaOne/Yutani.CHAOS    
             
-🎨 Skia4Delphi Components:    
+🎨 **Skia4Delphi Components:**    
    Alive Progress/Loading circle https://github.com/LaMitaOne/SkiaAliveProgress   
    Audio Visualizer https://github.com/LaMitaOne/SkiaAVisualizer        
    Skia CustomThreadedBase (this i use mostly) https://github.com/LaMitaOne/SkiaCustomThreadedBase    
@@ -64,7 +64,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    Skia Desktop Pet https://github.com/LaMitaOne/SkiaDesktopPetBase    
    Skia GalleryFlow https://github.com/LaMitaOne/SkiaGalleryFlow    
          
-🧪 Skia4Delphi experimental Components:    
+🧪 **Skia4Delphi experimental Components:**    
    Skia CustomMultithreadedBase  https://github.com/LaMitaOne/SkiaCustomMultiThreadedBase    
    Page Control https://github.com/LaMitaOne/SkiaPageControl   
    Surface Widget/modules rendering engine https://github.com/LaMitaOne/MRX-Skia-Surface   
@@ -72,7 +72,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    Fluid Magma effect https://github.com/LaMitaOne/Fluid-Magma-Effect    
    Skia GPU Liquid (up to 1 billion particles & Global Live Telemetry Command Center sample) https://github.com/LaMitaOne/Skia-GPU-Liquid       
       
-🎮 Skia4Delphi Games (each one file, no ext engine):    
+🎮 **Skia4Delphi Games (each one file, no ext engine):**    
    2D JumpnRun Platformer https://github.com/LaMitaOne/Skia_PlatformerGame   
    2D MegaCatling (Megaman platformer/shooter) https://github.com/LaMitaOne/Skia-MegaCatling     
    2D Lemmings/Worms/Portal/Touch hybrid https://github.com/LaMitaOne/SkiaLemmings       
@@ -90,44 +90,44 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    3D better go to https://github.com/castle-engine     
    or...:
         
-🌋 SDL3:    
+🌋 **SDL3:**    
    SDL3 CustomThreadedBase https://github.com/LaMitaOne/SDL3CustomThreadedBase   
    MRX Gamepad Core (sdl3) https://github.com/LaMitaOne/MRX-Gamepad-Core    
      
-🌋 Raylib:   
+🌋 **Raylib:**   
    Raylib 3D Delphi wrapper https://github.com/LaMitaOne/r3d-delphi    
    Raylib CustomThreadedBase https://github.com/LaMitaOne/RaylibCustomThreadedBase   
    Raylib Erosion Island port https://github.com/LaMitaOne/RaylibErosionStandaloneDelphi  
    Raylib Sandbox with kraft physics https://github.com/LaMitaOne/RaylibSandbox   
      
-🌋 JoltPhysics:      
+🌋 **JoltPhysics:**      
    Jolt Physics for Delphi (+ lil bit enhanced Raylib Sandbox) https://github.com/LaMitaOne/JoltPhysics4Delphi     
       
-🌋 Sokol:   
+🌋 **Sokol:**   
    Sokol CustomThreadedBase https://github.com/LaMitaOne/SokolCustomThreadedBase      
      
-🎧 Audio:   
+🎧 **Audio:**   
    MiniAudio for Delphi https://github.com/LaMitaOne/MiniAudio4Delphi       
    TinySoundFont for Delphi https://github.com/LaMitaOne/Tinysoundfont4delphi      
    SedaiAudio for Delphi https://github.com/LaMitaOne/SedaiAudio4Delphi     
        
-🌐 Network:    
+🌐 **Network:**    
    GameNetworkingSockets4delphi https://github.com/LaMitaOne/GameNetworkingSockets4delphi     
 
-🗄️ Database:       
+🗄️ **Database:**       
    GPGPU DataSetFilter https://github.com/LaMitaOne/GPGPU-DataSetFilter           
         
-🖥️ VCL Components:    
+🖥️ **VCL Components:**    
    Flowmotion animated image grid https://github.com/LaMitaOne/Flowmotion        
    Picshow extended https://github.com/LaMitaOne/PicShow-Extended    
    Circlepopup https://github.com/LaMitaOne/Circlepopup     
    MediathekView https://github.com/LaMitaOne/LaMita-MediathekView   
    VCL Custom Threaded Base https://github.com/LaMitaOne/VCLCustomThreadedBase     
    
-   -Lazarus Components:   
+   **-Lazarus Components:**   
    Flowmotion animated image grid https://github.com/LaMitaOne/lazarus-flowmotion     
 
-   -Useless things, Some tries which didn't fully work out so far:           
+   **-Useless things, Some tries which didn't fully work out so far:**           
   WebGPU4Delphi & BGFX_Delphi & more skia4delphi games https://github.com/LaMitaOne/useless-things    
   DCCrossrenderer-to-paslibVLC https://github.com/LaMitaOne/DCCrossrenderer-to-paslibVLC    
       
