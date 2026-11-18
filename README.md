@@ -39,7 +39,7 @@ Lots of prototypes, but a bit more than only basics mostly... :D some just trys 
    (JoltPhysics/Raylib/R3D/SDL3/MiniAudio/TinySoundFont/libmpv/RecastNavigation/Skia4delphi/GameNetworkingSockets)       
    https://github.com/LaMitaOne/Yutani-Building-better-worlds      
        
--parts of Yutani, usable with any raylib, yutani.core not needed for those(and skia4delphi parts anyway running solo):    
+-parts of Yutani, usable with any raylib, yutani.core not needed (& skia4delphi parts anyway running solo):    
    Yutani Particle/Materialize/Dematerialize Engine https://github.com/LaMitaOne/Yutani-Particle-Engine       
    Yutani Voronoi-Destruction-Engine (not Raylib-specific – pure Object Pascal) https://github.com/LaMitaOne/Yutani-Voronoi-Destruction-Engine       
    Yutani Skia Holographic Splash https://github.com/LaMitaOne/Yutani-Skia-Holographic-Splash     
