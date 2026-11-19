@@ -29,8 +29,10 @@ At the end of the day, it's just a background thread moving pixels around. Same 
 I used to move panels, forms, and pics around... and now I move avatars and whatever I want around. 😎     
 (but with skia4delphi or raylib it looks much cooler)    
      
-Lots of prototypes, but a bit more than only basics mostly... some just trys if I can get it done. But all at a level where its starting to make fun. So still surely usable for some to learn and ...you should finish it :D                
-   
+Lots of prototypes, but a bit more than only basics mostly... some just trys if I can get it done. But all at a level where its starting to make fun. So still surely usable for some to learn and ...you should finish it :D              
+       
+**Everywhere compiled exe and sample project included, never anything needed to install**           
+         
 > "The engine is not the framework. The engine is the code you write."    
 > John Carmack      
      
