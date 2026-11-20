@@ -126,6 +126,7 @@ Lots of prototypes, but a bit more than only basics mostly... some just trys if 
    Circlepopup https://github.com/LaMitaOne/Circlepopup     
    MediathekView https://github.com/LaMitaOne/LaMita-MediathekView   
    VCL Custom Threaded Base https://github.com/LaMitaOne/VCLCustomThreadedBase     
+   Sidebar Any App https://github.com/LaMitaOne/Sidebar-Any-App      
    
    **-Lazarus Components:**   
    Flowmotion animated image grid https://github.com/LaMitaOne/lazarus-flowmotion     
