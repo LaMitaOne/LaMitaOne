@@ -148,4 +148,5 @@ If you want to tip me a coffee.. :)
   </a>
 </p>
         
-💡 Note: Please excuse any typos, formatting glitches, or visual flaws in my projects; I have severe Keratoconus (20% visual acuity) and light-sensitive cluster headaches, so I code entirely in the dark and struggle to see fine visual details.
+💡 Note: Please excuse any typos, formatting glitches, or visual flaws in my projects; I have severe Keratoconus (20% visual acuity) and light-sensitive cluster headaches, so I code entirely in the dark and struggle to see fine visual details.       
+(Btw, thanks Asus for making the ZenScreen OLED — running it at 1% brightness is easily the best setup for this.)          
