@@ -51,7 +51,7 @@ Lots of prototypes, but a bit more than only basics mostly... some just trys if 
        
 **-Skia4Delphi parts of Yutani — usable solo**       
    Yutani Skia Holographic Splash https://github.com/LaMitaOne/Yutani-Skia-Holographic-Splash     
-   Yutani CHAOS Skia - Complete Holographic AI Operating System Interface https://github.com/LaMitaOne/Yutani.CHAOS    
+   Yutani CHAOS Skia (FMX GPU/VCL CPU versions) - Complete Holographic AI Operating System Interface https://github.com/LaMitaOne/Yutani.CHAOS    
             
 🎨 **Skia4Delphi Components:**    
    Alive Progress/Loading circle https://github.com/LaMitaOne/SkiaAliveProgress   
@@ -68,11 +68,12 @@ Lots of prototypes, but a bit more than only basics mostly... some just trys if 
          
 🧪 **Skia4Delphi experimental Components:**    
    Skia CustomMultithreadedBase  https://github.com/LaMitaOne/SkiaCustomMultiThreadedBase    
-   Page Control https://github.com/LaMitaOne/SkiaPageControl   
+   PageControl & GPU PageControl https://github.com/LaMitaOne/SkiaPageControl   
    Surface Widget/modules rendering engine https://github.com/LaMitaOne/MRX-Skia-Surface   
    LCARS fluid engine https://github.com/LaMitaOne/Skia-LCARS-Fluid-Engine   
    Fluid Magma effect https://github.com/LaMitaOne/Fluid-Magma-Effect    
-   Skia GPU Liquid (up to 1 billion particles & Global Live Telemetry Command Center sample) https://github.com/LaMitaOne/Skia-GPU-Liquid      
+   Skia GPU Liquid (up to 1 billion particles & Global Live Telemetry Command Center sample)       
+   https://github.com/LaMitaOne/Skia-GPU-Liquid      
    Skia GPU Alive Particle Components https://github.com/LaMitaOne/Skia-GPU-Alive-Particle-Components       
       
 🎮 **Skia4Delphi Games (each one file, no ext engine):**    
