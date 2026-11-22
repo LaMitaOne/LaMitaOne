@@ -55,7 +55,8 @@ Lots of prototypes, but a bit more than only basics mostly... some just trys if 
        
 **-Skia4Delphi parts of Yutani — usable solo**       
    Yutani Skia Holographic Splash https://github.com/LaMitaOne/Yutani-Skia-Holographic-Splash     
-   Yutani CHAOS Skia (FMX GPU/VCL CPU versions) - Complete Holographic AI Operating System Interface https://github.com/LaMitaOne/Yutani.CHAOS    
+   Yutani CHAOS Skia (FMX GPU/VCL CPU versions) - Complete Holographic AI Operating System Interface   
+   https://github.com/LaMitaOne/Yutani.CHAOS    
             
 🎨 **Skia4Delphi Components:**    
    Alive Progress/Loading circle https://github.com/LaMitaOne/SkiaAliveProgress   
