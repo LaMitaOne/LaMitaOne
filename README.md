@@ -4,7 +4,11 @@
 Hi there! 👋 I'm Tamy,     
           
 **Delphi tinkerer. Skia4Delphi addict.**     
-    
+     
+> *"The final frontier... These are the voyages of the starship DCC-64.  
+> Its ongoing mission: to explore strange new pixel worlds; to seek out new shader lifeforms and multithreaded civilizations;  
+> to boldly go where no Delphi has gone before."*    
+           
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/LaMitaOne)    
       
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/LaMitaOne/badge.svg)](https://hub.xerj.org/contributors/LaMitaOne)
