@@ -35,7 +35,9 @@ I used to move panels, forms, and pics around... and now I move avatars and what
 (but with skia4delphi or raylib it looks much cooler)    
      
 Lots of prototypes, but a bit more than only basics mostly... some just trys if I can get it done. But all at a level where its starting to make fun. So still surely usable for some to learn and ...you should finish it :D              
-       
+     
+Most of the projects you see here aren't brand-new ideas—many are modern rebuilds of tools and concepts I originally built (or sketched out in my head) over a decade ago, back when hardware simply couldn't handle them. Today, with Skia4Delphi, Raylib, FMX, and OpenGL Compute Shaders, those old blueprints can finally come to life at 60+ FPS.     
+        
 **Everywhere compiled exe and sample project included, never anything needed to install**           
          
 > "The engine is not the framework. The engine is the code you write."    
