@@ -7,8 +7,9 @@ Hi there! 👋 I'm Tamy,
      
 > *"The final frontier... These are the voyages of the starship DCC-64.  
 > Its ongoing mission: to explore strange new pixel worlds; to seek out new shader lifeforms and multithreaded civilizations;  
-> to boldly go where no Delphi has gone before."*    
-           
+> to boldly go where no Delphi has gone before."*
+<img height="200" alt="vulkandelphi" src="https://github.com/user-attachments/assets/1bdcebd0-9c90-46d3-9e20-660fc5e42029" />
+            
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/LaMitaOne)    
       
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/LaMitaOne/badge.svg)](https://hub.xerj.org/contributors/LaMitaOne)
