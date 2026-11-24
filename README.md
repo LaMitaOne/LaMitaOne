@@ -37,7 +37,11 @@ I used to move panels, forms, and pics around... and now I move avatars and what
 Lots of prototypes, but a bit more than only basics mostly... some just trys if I can get it done. But all at a level where its starting to make fun. So still surely usable for some to learn and ...you should finish it :D              
      
 Most of the projects you see here aren't brand-new ideas—many are modern rebuilds of tools and concepts I originally built (or sketched out in my head) over a decade ago, back when hardware simply couldn't handle them. Today, with Skia4Delphi, Raylib, FMX, and OpenGL Compute Shaders, those old blueprints can finally come to life at 60+ FPS.     
-        
+     
+Just one year later, throwing around millions of GPU compute shader particles like confetti on iGPUs—and still happy I tried Skia4Delphi :D   
+     
+<img height="200" alt="715690243-32855814-4f17-49eb-87bb-89a0c23e4d1c" src="https://github.com/user-attachments/assets/84596a06-13cd-44fa-9587-bb2c554410ab" />
+     
 **Everywhere compiled exe and sample project included, never anything needed to install**           
          
 > "The engine is not the framework. The engine is the code you write."    
