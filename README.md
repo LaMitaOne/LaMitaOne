@@ -42,7 +42,7 @@ Just one year later, throwing around millions of GPU compute shader particles li
      
 <img width="371" height="482" alt="718670659-9cd3a67a-36b1-4798-99f6-84b5b6610136" src="https://github.com/user-attachments/assets/48290884-67bf-4412-ae49-70b62420a6c6" />
      
-(Yutani C.H.A.O.S.)    
+(Yutani C.H.A.O.S. https://github.com/LaMitaOne/Yutani.CHAOS)    
         
 **Everywhere compiled exe and sample project included, never anything needed to install**           
          
