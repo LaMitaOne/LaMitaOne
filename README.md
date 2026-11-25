@@ -14,7 +14,8 @@ Hi there! 👋 I'm Tamy,
       
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/LaMitaOne/badge.svg)](https://hub.xerj.org/contributors/LaMitaOne)
      
-Most of my repos started as a 2-hour "can I do this?" challenge that went *slightly* out of hand. 🚀
+Most of my repos started as a 2-hour "can I do this?" challenge that went *slightly* out of hand. 🚀    
+(And some took a couple of days until I saw the first signs of life.)         
 
 ### 🛠️ What I'm up to
 * **Deep-diving into custom Skia rendering** – and absolutely loving it.
