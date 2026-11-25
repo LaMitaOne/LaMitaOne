@@ -42,9 +42,9 @@ Some of them are just smaller pieces that happened along the way while learning�
 Most of the projects you see here aren't brand-new ideas—many are modern rebuilds of tools and concepts I originally built (or sketched out in my head) over a decade ago, back when hardware (and Delphi 7) simply couldn't handle them. Today, with Skia4Delphi, Raylib, FMX, and OpenGL Compute Shaders, those old blueprints can finally come to life at 60+ FPS.     
      
 Just one year later, throwing around millions of GPU compute shader particles like confetti on iGPUs—and still happy I tried Skia4Delphi :D   
-     
-<img width="371" height="482" alt="718670659-9cd3a67a-36b1-4798-99f6-84b5b6610136" src="https://github.com/user-attachments/assets/48290884-67bf-4412-ae49-70b62420a6c6" />
-     
+      
+<img width="631" height="626" alt="Unbenannt" src="https://github.com/user-attachments/assets/259fb660-3919-4576-8c8f-2a39fddffe42" />
+       
 (Yutani C.H.A.O.S. https://github.com/LaMitaOne/Yutani.CHAOS)    
         
 **Everywhere compiled exe and sample project included, never anything needed to install**           
