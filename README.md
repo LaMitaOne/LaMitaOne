@@ -43,7 +43,7 @@ Most of the projects you see here aren't brand-new ideas—many are modern rebui
      
 Just one year later, throwing around millions of GPU compute shader particles like confetti on iGPUs—and still happy I tried Skia4Delphi :D   
       
-<img width="631" height="626" alt="Unbenannt" src="https://github.com/user-attachments/assets/259fb660-3919-4576-8c8f-2a39fddffe42" />
+<img height="300" alt="Unbenannt" src="https://github.com/user-attachments/assets/259fb660-3919-4576-8c8f-2a39fddffe42" />
        
 (Yutani C.H.A.O.S. https://github.com/LaMitaOne/Yutani.CHAOS)    
         
