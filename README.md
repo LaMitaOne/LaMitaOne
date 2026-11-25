@@ -38,7 +38,7 @@ Lots of prototypes, but a bit more than only basics mostly... some just trys if 
       
 Some of them are just smaller pieces that happened along the way while learning—and a few already got deprecated again later when I found a better or crazier way to do things. Still far from useless though, because you might still be able to do something cool with them!      
                       
-Most of the projects you see here aren't brand-new ideas—many are modern rebuilds of tools and concepts I originally built (or sketched out in my head) over a decade ago, back when hardware simply couldn't handle them. Today, with Skia4Delphi, Raylib, FMX, and OpenGL Compute Shaders, those old blueprints can finally come to life at 60+ FPS.     
+Most of the projects you see here aren't brand-new ideas—many are modern rebuilds of tools and concepts I originally built (or sketched out in my head) over a decade ago, back when hardware (and Delphi 7) simply couldn't handle them. Today, with Skia4Delphi, Raylib, FMX, and OpenGL Compute Shaders, those old blueprints can finally come to life at 60+ FPS.     
      
 Just one year later, throwing around millions of GPU compute shader particles like confetti on iGPUs—and still happy I tried Skia4Delphi :D   
      
