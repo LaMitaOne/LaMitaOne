@@ -53,7 +53,7 @@ Just one year later, throwing around millions of GPU compute shader particles li
      
 💠 Yutani - Building better worlds:         
 **-Yutani Engine**       
-   (JoltPhysics/Raylib/R3D/SDL3/MiniAudio/TinySoundFont/libmpv/RecastNavigation/Skia4delphi/GameNetworkingSockets)       
+   (JoltPhysics/Raylib/R3D/SDL3/MiniAudio/TinySoundFont/SedaiAudio/libmpv/RecastNavigation/Skia4delphi/GameNetworkingSockets)       
    https://github.com/LaMitaOne/Yutani-Building-better-worlds      
        
 **-Parts of Yutani — usable with any Raylib (`Yutani.Core` not needed)**    
