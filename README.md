@@ -172,6 +172,6 @@ If you want to tip me a coffee.. :)
 ---   
      
 > **Yes, I do use some AI** — still just free browser tools (z.ai and some Google search AI) to speed up boilerplate and research.  
-> **But it's definitely not *just* AI:** Behind this is over 20 years of coding experience, 10+ years of building and maintaining complete commercial/standalone software projects completely solo, and a mountain of crazy experiments and "useless" prototypes that are finally coming together now.      
+> **But it's definitely not *just* AI:** Behind this is over 20 years of coding experience, 10+ years of building and maintaining complete commercial/standalone software projects solo, and a mountain of crazy experiments and "useless" prototypes that are finally coming together now.      
 > *(And honestly, it was really about time to move on from Delphi 7 lol.)*
 
