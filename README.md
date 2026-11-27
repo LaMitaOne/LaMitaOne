@@ -167,4 +167,11 @@ If you want to tip me a coffee.. :)
 </p>
         
 💡 Note: Please excuse any typos, formatting glitches, or visual flaws in my projects; I have severe Keratoconus (20% visual acuity) and light-sensitive cluster headaches, so I code entirely in the dark and struggle to see fine visual details.       
-(Btw, thanks Asus for making the ZenScreen OLED — running it at 1% brightness is easily the best setup for this.)          
+(Btw, thanks Asus for making the ZenScreen OLED — running it at 1% brightness is easily the best setup for this.)   
+    
+---   
+     
+> **Yes, I do use some AI** — still just free browser tools (z.ai and some Google search AI) to speed up boilerplate and research.  
+> **But it's definitely not *just* AI:** Behind this is over 20 years of coding experience, 10+ years of building and maintaining complete commercial/standalone software projects completely solo, and a mountain of crazy experiments and "useless" prototypes that are finally coming together now.      
+> *(And honestly, it was really about time to move on from Delphi 7 lol.)*
+
